@@ -1,0 +1,12 @@
+[submodule "vue-TIL"]
+	path = vue-TIL
+	url = git@github.com:ugeehyung/vue-TIL.git
+[submodule "shopify-TIL"]
+	path = shopify-TIL
+	url = git@github.com:ugeehyung/shopify-TIL.git
+[submodule "vue"]
+	path = vue
+	url = https://github.com/ugeehyung/vue-TIL.git
+[submodule "shopify"]
+	path = shopify
+	url = https://github.com/ugeehyung/shopify-TIL.git
